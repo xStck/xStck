@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h2 align="center">My GitHub stats</h2>
+
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=xstck&label=Profile%20views&color=0e75b6&style=flat"
