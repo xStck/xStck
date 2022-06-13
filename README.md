@@ -22,7 +22,7 @@
     alt="xstck"
   />
 
-  &nbsp;<img
+  <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=xstck&show_icons=true&locale=en"
     alt="xstck"
