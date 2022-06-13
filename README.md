@@ -17,7 +17,7 @@
 
 <p align="center"></p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img
@@ -200,6 +200,7 @@
     />
   </a>
 </p>
+</h3>
 <div align="center">
   <img
     align="center"
