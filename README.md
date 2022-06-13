@@ -200,7 +200,6 @@
     />
   </a>
 </p>
-<br/>
 <p>
   <img
     align="center"
@@ -208,7 +207,6 @@
     alt="xstck"
   />
 </p>
-<br/>
 <p>
   &nbsp;<img
     align="center"
@@ -216,7 +214,6 @@
     alt="xstck"
   />
 </p>
-<br/>
 <p>
   <img
     align="center"
