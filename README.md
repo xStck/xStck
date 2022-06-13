@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xstck&label=Profile%20views&color=0e75b6&style=flat" alt="xstck" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xstck&label=Profile%20views&color=0e75b6&style=flat" alt="xstck" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xstck" alt="xstck" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xstck" alt="xstck" /></a> </p>
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
