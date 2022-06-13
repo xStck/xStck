@@ -15,6 +15,26 @@
   /></a>
 </p>
 
+<div align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=xstck&show_icons=true&locale=en&layout=compact"
+    alt="xstck"
+  />
+
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=xstck&show_icons=true&locale=en"
+    alt="xstck"
+  />
+
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=xstck&"
+    alt="xstck"
+  />
+</div>
+
 <p align="center"></p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -200,26 +220,6 @@
     />
   </a>
 </p>
-
-<div align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=xstck&show_icons=true&locale=en&layout=compact"
-    alt="xstck"
-  />
-
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=xstck&show_icons=true&locale=en"
-    alt="xstck"
-  />
-
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=xstck&"
-    alt="xstck"
-  />
-</div>
 
 <h2 align="center">Contact</h2>
 <br />
