@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h2 align="center">My blender animation</h2>
-<div align="center">
+
 https://user-images.githubusercontent.com/65316603/173384639-2a3f39f2-6c12-4ae0-9b74-c059de2859cf.mp4
-</div>
+
 
 <h2 align="center">My GitHub stats</h2>
 
