@@ -8,16 +8,14 @@
 </p>
 
 <h2 align='center'>My GitHub stats<h2></h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=xstck"
+      alt="xstck"
+  /></a>
+</p>
 <div align="center">
-
-    <p align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy"
-          ><img
-            src="https://github-profile-trophy.vercel.app/?username=xstck"
-            alt="xstck"
-        /></a>
-      </p>
-
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=xstck&show_icons=true&locale=en&layout=compact"
