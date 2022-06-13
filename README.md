@@ -200,7 +200,7 @@
     />
   </a>
 </p>
-<div align = "center">
+<div align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=xstck&show_icons=true&locale=en&layout=compact"
@@ -220,3 +220,30 @@
   />
 </div>
 
+<h2 align="center">
+  Contact
+  <h2>
+    <br />
+    <div align="center">
+      <a href="mailto:dawidn392@gmail.com">
+        <img
+          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+      </a>
+      <br />
+      <p>dawidn392@gmail.com</p>
+    </div>
+    <br />
+    <div align="center">
+      <a href="https://www.linkedin.com/in/dawid-nalepa-019046242/">
+        <img
+          src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+      </a>
+      <br />
+      <a href="https://www.linkedin.com/in/dawid-nalepa-019046242/"
+        >My LinkedIn profile</a
+      >
+    </div>
+  </h2>
+</h2>
