@@ -46,6 +46,14 @@ https://user-images.githubusercontent.com/65316603/173384639-2a3f39f2-6c12-4ae0-
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="left">
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+      alt="oracle"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img
       src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
@@ -166,14 +174,6 @@ https://user-images.githubusercontent.com/65316603/173384639-2a3f39f2-6c12-4ae0-
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
       width="40"
       height="40"
     />
