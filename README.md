@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center">My blender animation (I recommend turning on the sound ;) )</h2>
+<h2 align="center">My blender animation (I recommend turning on the sound)</h2>
 
 https://user-images.githubusercontent.com/65316603/173384639-2a3f39f2-6c12-4ae0-9b74-c059de2859cf.mp4
 
