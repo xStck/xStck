@@ -5,15 +5,6 @@
 https://user-images.githubusercontent.com/65316603/173384639-2a3f39f2-6c12-4ae0-9b74-c059de2859cf.mp4
 
 
-<h2 align="center">My GitHub stats</h2>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=xstck&label=Profile%20views&color=0e75b6&style=flat"
-    alt="xstck"
-  />
-</p>
-
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -174,6 +165,7 @@ https://user-images.githubusercontent.com/65316603/173384639-2a3f39f2-6c12-4ae0-
   </a>
 </p>
 
+<h2 align="center">My GitHub stats</h2>
 <div align="center">
   <img
     align="center"
