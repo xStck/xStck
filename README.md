@@ -1,4 +1,4 @@
-### Hi there 👋
+![githubHeader](https://user-images.githubusercontent.com/65316603/211925462-e2672c64-dfc1-4eac-a0f7-8ff1110eb90e.jpeg)
 
 <h2 align="center">My blender animation (I recommend turning on the sound)</h2>
 
