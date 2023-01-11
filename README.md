@@ -96,14 +96,6 @@ https://user-images.githubusercontent.com/65316603/173384639-2a3f39f2-6c12-4ae0-
       height="40"
     />
   </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-      alt="blender"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -164,6 +156,14 @@ https://user-images.githubusercontent.com/65316603/173384639-2a3f39f2-6c12-4ae0-
       height="40"
     />
   </a>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+      alt="blender"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
@@ -172,18 +172,18 @@ https://user-images.githubusercontent.com/65316603/173384639-2a3f39f2-6c12-4ae0-
       height="40"
     />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
       alt="swift"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
       width="40"
       height="40"
     />
