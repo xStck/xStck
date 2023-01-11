@@ -17,12 +17,6 @@ https://user-images.githubusercontent.com/65316603/173384639-2a3f39f2-6c12-4ae0-
 <div align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=xstck&show_icons=true&locale=en&layout=compact"
-    alt="xstck"
-  />
-  </br>
-  <img
-    align="center"
     src="https://github-readme-stats.vercel.app/api?username=xstck&show_icons=true&locale=en"
     alt="xstck"
   />
