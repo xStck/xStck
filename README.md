@@ -151,21 +151,6 @@ https://user-images.githubusercontent.com/65316603/173384639-2a3f39f2-6c12-4ae0-
   </a>
 </p>
 
-<h2 align="center">My GitHub stats</h2>
-<div align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=xstck&show_icons=true&locale=en"
-    alt="xstck"
-  />
-
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=xstck&"
-    alt="xstck"
-  />
-</div>
-
 <p align="center"></p>
 
 <h2 align="center">Contact</h2>
