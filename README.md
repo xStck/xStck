@@ -1,10 +1,5 @@
 ![githubHeader](https://user-images.githubusercontent.com/65316603/211925462-e2672c64-dfc1-4eac-a0f7-8ff1110eb90e.jpeg)
 
-<h2 align="center">My blender animation (I recommend turning on the sound)</h2>
-
-https://user-images.githubusercontent.com/65316603/173384639-2a3f39f2-6c12-4ae0-9b74-c059de2859cf.mp4
-
-
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
